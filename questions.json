@@ -321,5 +321,77 @@
             "right": "Richtige Antwort: Ein Kuss",
             "text": "In der Episode \"Platons Stiefkinder\" der dritten Staffel von Raumschiff Enterprise küsst William Shattner seine Schauspielerkollegin Nichelle Nichols auf den Mund. Was heute für normalität gilt, war im Jahr 1968 in den USA ein unding und sorgte für Disskusionen. Heute gilt diese Szene als einer der ersten gemischtrassigen Küsse in der Fernsehgeschichte. Funfact: Der erste schon 1964 in der britischen TV-Sendung Emergency-Ward 10 zu sehen."
         }
+    },
+    {
+        "id": "19",
+        "imgURL": "img/aladdin.jpg",
+        "qoute": "Das Wünschen weiterer Wünsche ist nicht wünschenswert",
+        "question": "Was fehlt Aladdin aus dem gleichnamigen Disney Animationsfilm?",
+        "answers": {
+            "A": "Finger",
+            "B": "Charakter",
+            "C": "Nippel",
+            "D": "Bauchnabel"
+        },
+        "right": "C",
+        "explain": {
+            "image": "img/aladdin-ex.jpg",
+            "right": "Richtige Antwort: Nippel",
+            "text": "Der genaue Grund, warum diese fehlen ist nicht bekannt. Es wird angenommen, dass sie wegen den jungen Zuschauern weggelassen worden sind. Zumindest galt das für 1992, da Zeus aus dem Film Herkules von 1997 und Tarzan aus dem gleichnamigen Film von 1999 welche bekommen haben."
+        }
+    },
+    {
+        "id": "20",
+        "imgURL": "img/Superman.jpg",
+        "qoute": "Das ist kein 'S'. In meiner Welt bedeutet es Hoffnung.",
+        "question": "Was führte beinah dazu, dass Henry Cavill die Rolle als Superman nicht bekommen hätte?",
+        "answers": {
+            "A": "Falsche Telefonnummer",
+            "B": "Raid in WoW",
+            "C": "Schlafmangel",
+            "D": "Ben Affleck"
+        },
+        "right": "B",
+        "explain": {
+            "image": "img/Superman-ex.jpg",
+            "right": "Richtige Antwort: Raid in WoW",
+            "text": "In einem Interview mit Conan O'Brien gab der Cavill zu, dass er den Anruf vom Regisseur Zack Snyder zuerst ignorierte, da er sich gerade mitten in einem World of Warcraft Raid befand. Als er aber bemerkt hatte wer angerufen hatte, hat er Snyder gleich zurückgerufen. All hail to the King of the Nerds!"
+        }
+    },
+    {
+        "id": "21",
+        "imgURL": "img/djangoLeo.jpg",
+        "qoute": "Das D is' stumm",
+        "question": "Was macht diese Szene aus Django Unchained besonders?",
+        "answers": {
+            "A": "Echtes Blut von DiCaprio",
+            "B": "Marihuana in der Zigarette",
+            "C": "Sie musste 13 mal wiederholt werden",
+            "D": "DiCaprio war betrunken"
+        },
+        "right": "A",
+        "explain": {
+            "image": "img/djangoLeo-ex.jpg",
+            "right": "Richtige Antwort: Echtes Blut von DiCaprio",
+            "text": "Be der Dinner-Szene haut Leonardo DiCaprio mit seiner Hand auf den Tisch und verbricht aus Versehen dabei ein Glas. Anstatt aber abzubrechen bleibt er in seiner Rolle, wobei die Wunde stark blutete. Tarantino war anscheinend von der Aktion so imponiert, dass er diesen Take mit in den fertigen Film mit nahm."
+        }
+    },
+    {
+        "id": "22",
+        "imgURL": "img/theDetective.jpg",
+        "qoute": "Das D is' stumm",
+        "question": "Welcher Film ist eine (indirekte) Fortsetzung von \"The Detective\" aus dem Jahr 1968?",
+        "answers": {
+            "A": "Stirb Langsam",
+            "B": "Die nackte Kanone",
+            "C": "Beverly Hills Cop",
+            "D": "Dick Tracy"
+        },
+        "right": "A",
+        "explain": {
+            "image": "img/theDetective-ex.jpg",
+            "right": "Richtige Antwort: Stirb Langsam",
+            "text": "Sowohl der Film \"Der Detektiv\" als auch \"Stirb Langsam\" basieren auf die Buchreihe „The Detective“ von Roderick Thorp. Stirb Langsam ist herbei die Adaption des Buches Nothing Lasts Forever, welches wieder mit Frank Sinatra in der Rolle des Detektives Joe Leland verfilmt werden sollte. Dieser lehnte jedoch ab und nach ein paar Änderungen wurde aus Joe Leland John McLaine mit Bruce Willis im Nakatomi Tower."
+        }
     }
 ]

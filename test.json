@@ -1,20 +1,20 @@
 [
     {
-        "id": "18",
-        "imgURL": "img/enterpriseCrew.jpg",
-        "qoute": "Der Weltraum, unendliche Weiten",
-        "question": "Was löste in Raumschiff Enterprise eine Kontroverse aus?",
+        "id": "23",
+        "imgURL": "img/canibal.jpg",
+        "qoute": "Das D is' stumm",
+        "question": "Was erhielt der Regisseur dank seines Filmes \"Cannibal Holocaust\"?",
         "answers": {
-            "A": "Ein Kuss",
-            "B": "Eine Kampfszene",
-            "C": "Das Beamen",
-            "D": "Die Rasse Vulkanier"
+            "A": "Eine Mordanklage",
+            "B": "Den finanzieller Ruin",
+            "C": "Eine Krankheit",
+            "D": "Eine Scheidung"
         },
         "right": "A",
         "explain": {
-            "image": "img/enterpriseCrew-ex.jpg",
-            "right": "Richtige Antwort: Ein Kuss",
-            "text": "In der Episode \"Platons Stiefkinder\" der dritten Staffel von Raumschiff Enterprise küsst William Shattner seine Schauspielerkollegin Nichelle Nichols auf den Mund. Was heute für normalität gilt, war im Jahr 1968 in den USA ein unding und sorgte für Disskusionen. Heute gilt diese Szene als einer der ersten gemischtrassigen Küsse in der Fernsehgeschichte. Funfact: Der erste schon 1964 in der britischen TV-Sendung Emergency-Ward 10 zu sehen."
+            "image": "img/canibal-ex.jpg",
+            "right": "Richtige Antwort: Eine Mordanklage",
+            "text": "Durch die Darstellung als Dokumentarfilm und die realistische Darstellung von Gewalt, wurde Ruggero Deodato angeklagt echte Leichen genutzt und eine Darstellerin für den Film getötet zu haben. Vor Gericht musste er am Ende beweisen, dass die Frau im Film nicht wirklich gepfählt worden ist, was er dank Fotos klarstellen konnte, welche nach der Szene entstanden waren."
         }
     }
 ]
