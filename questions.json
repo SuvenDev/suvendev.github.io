@@ -128,7 +128,7 @@
         "id": "8",
         "imgURL": "img/spacejam.jpg",
         "qoute": "Is' was, Doc?",
-        "question": "Was existiert heute (Stand. 2019) noch vom Film 'Space Jam'?",
+        "question": "Was existiert heute (Stand. 2022) noch vom Film 'Space Jam'?",
         "answers": {
             "A": "Eine Webseite von 1996",
             "B": "Eine Erfolgreiche Animationsserie",
@@ -342,7 +342,7 @@
     },
     {
         "id": "20",
-        "imgURL": "img/Superman.jpg",
+        "imgURL": "img/superman.jpg",
         "qoute": "Das ist kein 'S'. In meiner Welt bedeutet es Hoffnung.",
         "question": "Was führte beinah dazu, dass Henry Cavill die Rolle als Superman nicht bekommen hätte?",
         "answers": {
@@ -353,7 +353,7 @@
         },
         "right": "B",
         "explain": {
-            "image": "img/Superman-ex.jpg",
+            "image": "img/superman-ex.jpg",
             "right": "Richtige Antwort: Raid in WoW",
             "text": "In einem Interview mit Conan O'Brien gab der Cavill zu, dass er den Anruf vom Regisseur Zack Snyder zuerst ignorierte, da er sich gerade mitten in einem World of Warcraft Raid befand. Als er aber bemerkt hatte wer angerufen hatte, hat er Snyder gleich zurückgerufen. All hail to the King of the Nerds!"
         }
@@ -379,7 +379,7 @@
     {
         "id": "22",
         "imgURL": "img/theDetective.jpg",
-        "qoute": "Das D is' stumm",
+        "qoute": "There's only one truth",
         "question": "Welcher Film ist eine (indirekte) Fortsetzung von \"The Detective\" aus dem Jahr 1968?",
         "answers": {
             "A": "Stirb Langsam",
@@ -397,7 +397,7 @@
     {
         "id": "23",
         "imgURL": "img/canibal.jpg",
-        "qoute": "Das D is' stumm",
+        "qoute": "They've just invited us to dinner!",
         "question": "Was erhielt der Regisseur dank seines Filmes \"Cannibal Holocaust\"?",
         "answers": {
             "A": "Eine Mordanklage",
