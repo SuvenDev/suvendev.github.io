@@ -7,7 +7,7 @@ let currentQuestion;
 let questions = [];
 let selectedQuestions = [];
 
-$.getJSON("test.json", function (data) {
+$.getJSON("questions.json", function (data) {
 
     $.each(data, function (key, val) {
         questions.push(val);
