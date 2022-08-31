@@ -418,10 +418,10 @@
         "qoute": "i'll be back!",
         "question": "Welcher Schauspieler wurde als \"zu freundlich\" für die Rolle des Terminator gesehen?",
         "answers": {
-            "A": "Eine Mordanklage",
+            "A": "Sigourney Weaver",
             "B": "Bill Murray",
             "C": "O. J. Simpson",
-            "D": "Silvester Stalone"
+            "D": "Tom Hanks"
         },
         "right": "C",
         "explain": {
