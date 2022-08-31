@@ -66,8 +66,10 @@
 
                 <!-- Bestätigungsbutton -->
                 <div class="row">
-                    <div class="col-md-8">
+                    <div class="col-md-2">
+                        <button id="btnJoker" class="btn btn-success btn-lg btn-block" data-toggle="modal" data-target="#jokerModal">Jokers</button>
                     </div>
+                    <div class="col-md-6"></div>
                     <div class="col-md-4">
                         <button id="btn-confirm" class="btn btn-primary btn-lg btn-block">Bestätigen</button>
                     </div>
@@ -116,5 +118,27 @@
     <!-- Eigene JS -->
     <script src="js/script.js" defer="defer"></script>
 </body>
+
+Joker Modal
+
+<!-- Modal -->
+<div class="modal fade" id="jokerModal" tabindex="-1" role="dialog" aria-labelledby="jokerModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="jokerModalLabel">Why so serious?</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+            <img title="HA HA HA HA" src="/img/jokers.PNG">
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Danke ....</button>
+        </div>
+      </div>
+    </div>
+  </div>
 
 </html>
