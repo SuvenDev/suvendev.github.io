@@ -15,8 +15,6 @@ $.getJSON("questions.json", function (data) {
         shuffle(questions);
 
         selectedQuestions = questions.slice(0,5);
-
-        console.log(selectedQuestions);
     });
 });
 
@@ -85,6 +83,10 @@ $("#btnStart").click(function () {
     $(".quiz-start").fadeOut(function () {
         startQuiz();
     });
+});
+
+$("#btnStartAgain").click(function () {
+    window.location.reload();
 });
 
 function startQuiz() {
